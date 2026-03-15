@@ -24,10 +24,10 @@ Estudante de Python • Git • Desenvolvimento Web
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Levi-Soaress&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Soaress&layout=compact&theme=tokyonight"/>
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Levi-Soaress&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levi-Soaress&theme=dark"/>
 
 ## 📁 Projetos
 
@@ -41,8 +41,15 @@ Estudante de Python • Git • Desenvolvimento Web
 
 ## 📧 Contato
 
+<p>
+<a href="https://linkedin.com/in/levisoaress">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-
+<a href="mailto:levibispo.particular@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 
 
