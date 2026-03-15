@@ -1,4 +1,51 @@
-## Hi there 👋
+<h1 align="center"> Levi Soares</>
+  
+![Logo](https://i.pinimg.com/736x/cd/34/6b/cd346b5f568400dda9975241c0ec3a39.jpg)
+
+<p align="center">
+Estudante de Python • Git • Desenvolvimento Web
+</p>
+
+<h2>👨‍💻 Sobre mim</h2>
+
+<ul>
+<li>🎓 Estudante de programação</li>
+<li>🐍 Atualmente estudando Python</li>
+<li>🌱 Aprendendo Git, GitHub e desenvolvimento web</li>
+<li>🎯 Em busca da primeira oportunidade na área de tecnologia</li>
+</ul>
+
+## 🚀 Tecnologias
+
+- Python
+- Git
+- GitHub
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Levi-Soaress&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Soaress&layout=compact&theme=tokyonight"/>
+</p>
+
+
+## 📁 Projetos
+
+- Em breve
+
+## 📖 Atualmente Estudando
+
+- Git
+- Github
+- Lógica de Programação
+
+## 📧 Contato
+
+
+
+
+
+
 
 <!--
 **Levi-Soaress/Levi-Soaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
