@@ -25,9 +25,9 @@ Estudante de Python • Git • Desenvolvimento Web
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Levi-Soaress&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Levi-Soaress&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levi-Soaress&theme=dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levi-Soaress&theme=tokyo-night"/>
 
 ## 📁 Projetos
 
