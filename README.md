@@ -39,6 +39,10 @@ Estudante de Python • Git • Desenvolvimento Web
 - Github
 - Lógica de Programação
 
+## 💻 Linguagens que tenho conhecimento
+
+[![My Skills](https://skillicons.dev/icons?i=python,git)](https://skillicons.dev)
+
 ## 📧 Contato
 
 <p align="center">
