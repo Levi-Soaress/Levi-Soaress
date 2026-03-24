@@ -41,7 +41,7 @@ Estudante de Python • Git • Desenvolvimento Web
 
 ## 💻 Linguagens que tenho conhecimento
 
-[![My Skills](https://skillicons.dev/icons?i=python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,md)](https://skillicons.dev)
 
 ## 📧 Contato
 
