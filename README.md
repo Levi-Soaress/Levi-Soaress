@@ -17,9 +17,8 @@ Estudante de Python • Git • Desenvolvimento Web
 
 ## 🚀 Tecnologias
 
-- Python
-- Git
-- GitHub
+[![My Skills](https://skillicons.dev/icons?i=python,git,md,linkedin)](https://skillicons.dev)
+
 
 ## 📊 Estatísticas
 
@@ -38,10 +37,6 @@ Estudante de Python • Git • Desenvolvimento Web
 - Git
 - Github
 - Lógica de Programação
-
-## 💻 Linguagens que tenho conhecimento
-
-[![My Skills](https://skillicons.dev/icons?i=python,git,md)](https://skillicons.dev)
 
 ## 📧 Contato
 
