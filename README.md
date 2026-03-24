@@ -1,6 +1,13 @@
-<h1 align="center"> Levi Soares</>
-  
-![Logo](https://i.pinimg.com/736x/cd/34/6b/cd346b5f568400dda9975241c0ec3a39.jpg)
+<!-- BANNER -->
+
+
+<div align="center">
+  <p align="center">
+  <img src="https://i.pinimg.com/1200x/8a/4a/57/8a4a57a111c0f35611117dae3563f7fb.jpg" alt="Banner" width="100%">
+</p>
+
+
+
 
 <p align="center">
 Estudante de Python • Git • Desenvolvimento Web
