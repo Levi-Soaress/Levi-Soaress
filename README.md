@@ -36,12 +36,11 @@ Estudante de Python • Git • Desenvolvimento Web
 
 ## 📁 Projetos
 
-- Em breve
+- [FindMyUrl](https://github.com/Levi-Soaress/FindMyURL)
 
 ## 📖 Atualmente Estudando
 
-- Git
-- Github
+- Desenvolvimento Front-End
 - Lógica de Programação
 
 ## 📧 Contato
