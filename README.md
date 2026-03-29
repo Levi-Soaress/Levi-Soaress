@@ -9,21 +9,25 @@
 </p>
 
 <p align="center">
-Estudante de Python • Git • Desenvolvimento Web
+Estudante de Java Script • Git • Desenvolvimento Web
 </p>
 
 <h2>👨‍💻 Sobre mim</h2>
 
 <ul>
 <li>🎓 Estudante de programação</li>
-<li>🐍 Atualmente estudando Python</li>
-<li>🌱 Aprendendo Git, GitHub e desenvolvimento web</li>
+<li>🐍 Atualmente estudando Java Script</li>
+<li>🌱 Desenvolvimento Web, Lógica de Programação</li>
 <li>🎯 Em busca da primeira oportunidade na área de tecnologia</li>
 </ul>
 
 ## 🚀 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,md,linkedin)](https://skillicons.dev)
+## Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md&perline=)](https://skillicons.dev)
+## Back-End
+[![My Skills](https://skillicons.dev/icons?i=python,js,git,&perline=3)](https://skillicons.dev) <!-- BACK END  -->
+
 
 
 ## 📊 Estatísticas
@@ -42,6 +46,7 @@ Estudante de Python • Git • Desenvolvimento Web
 
 - Desenvolvimento Front-End
 - Lógica de Programação
+- Java Script
 
 ## 📧 Contato
 
